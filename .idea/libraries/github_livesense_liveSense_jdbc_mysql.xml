@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="github.livesense.liveSense.jdbc.mysql" type="repository">
+    <properties maven-id="com.github.livesense:org.liveSense.jdbc.mysql:1.0.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/livesense/org.liveSense.jdbc.mysql/1.0.5/org.liveSense.jdbc.mysql-1.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.18/mysql-connector-java-5.1.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
